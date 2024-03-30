@@ -1,4 +1,4 @@
-# Cynthia
+# Project to teach Angular 16 to junior devs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
 
